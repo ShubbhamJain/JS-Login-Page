@@ -1,0 +1,67 @@
+body {
+  margin-top: 65px;
+}
+
+.container {
+  background: #c7c7c7;
+  padding: 0px;
+}
+
+.row {
+  margin: 0px;
+}
+
+.error {
+  background: #ff0000;
+  color: #fff;
+  padding: 5px;
+  margin: 5px;
+  align-content: center;
+}
+
+.added {
+  background: #47cced;
+  color: #fff;
+  padding: 5px;
+  margin: 5px;
+  align-content: center;
+}
+
+.li {
+  background: #b5b5b5;
+}
+
+@media(max-width: 575px){
+  .colour{
+  height: auto;
+  width: 425px;
+}
+}
+
+@media(min-width: 576px) and (max-width: 767px){
+  .colour{
+  height: auto;
+  width: 425px;
+}
+}
+
+@media(min-width: 768px) and (max-width: 991px){
+  .colour{
+  height: auto;
+  width: 425px;
+}
+}
+
+@media(min-width: 992px) and (max-width: 1199px){
+  .colour{
+  height: auto;
+  width: 425px;
+}
+}
+
+@media(min-width: 1200px){
+  .colour{
+  height: auto;
+  width: 425px;
+}
+}
